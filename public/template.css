@@ -1,0 +1,128 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("./picbackground/background1.jpg");
+}
+
+.first {
+  background-color: rgba(242, 229, 47, 0.564);
+}
+.logo {
+  width: 100px;
+  margin: 0;
+}
+.flex li {
+  text-decoration: none;
+  list-style-type: none;
+}
+.recherche {
+  margin-top: 50px;
+  margin-bottom: 1px;
+  vertical-align: center;
+  width: 70%;
+
+  height: 20%;
+  justify-content: center;
+  margin-left: 200px;
+}
+.bouton {
+  width: 10%;
+  height: 20%;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+.flex a {
+  text-decoration: none;
+  display: flex;
+}
+
+.vod figure img {
+  width: 60px;
+  
+  border-radius: 25%;
+}
+.vod figure img:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+h1 {
+  font-size: 100px;
+  text-align: left;
+  margin-bottom: 2px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  margin-bottom: 50px;
+}
+h2 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+
+  margin-top: 1px;
+  font: italic small-caps bold 60px/2 cursive;
+  margin-bottom: 2px;
+}
+
+.menu li {
+  font-size: 200%;
+  transition: transform 0.1s;
+}
+
+.menu li a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+.menu li:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
+.logoadmin {
+  position: absolute;
+  top: 30%;
+  right: 2px;
+  transform: translate(-50%, -50%);
+  width: 40px;
+}
+
+small {
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+
+.newsletters{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    vertical-align: center;
+    font-size: 110%;
+    width: 40%;
+    border: none;
+    border-radius: 1%;
+    height: 5%;
+    justify-content: center;
+    margin-left: 30rem;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.titreNewsletters{
+    color: white;
+    font-size:40px;
+}
+.bouton2{
+    width: 10%;
+    height: 5%;
+}

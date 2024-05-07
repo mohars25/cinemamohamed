@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(246, 249, 85);
+}
+h1{
+    text-align: center;
+    color: rgb(11, 189, 189);
+}
+figure img {
+    width: 10%;
+}

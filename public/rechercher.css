@@ -1,0 +1,16 @@
+h1{
+    text-align:center;
+    font-size: large;
+}
+
+
+ul{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(78, 241, 154, 0.586);
+    color: black;
+}
+
+.search{
+    width: 10%;
+}

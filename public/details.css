@@ -1,0 +1,48 @@
+
+
+
+
+
+
+.detailtexte {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+h2, h3 {
+    color: #2c3e50; 
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    margin-top: 20px; 
+}
+
+.detailtexte p {
+    margin: 10px 0;
+}
+
+img {
+    display: block; 
+    width: 300px; 
+    height: auto;
+    margin: 20px 0; 
+}
+
+body {
+    background-color: #f5f5f5; 
+    margin: 0;
+    padding: 20px; 
+}
+
+div.detailtexte {
+    padding: 15px;
+    background-color: #ffffff; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+p, span {
+    margin: 0; 
+}

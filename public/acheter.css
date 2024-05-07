@@ -1,0 +1,9 @@
+.back{
+    background-color: rgba(79, 144, 235, 0.901);
+    text-align: center;
+    font-size: 30px;
+}
+input{
+    width: 20%;
+    border-radius: 5%;
+}

@@ -6,6 +6,7 @@ Dans le menu, nous avons quatre types d'entrées :
 -Réalisateur
 -Film
 -Acheter
+
  
  un acteur,  un réalisateur ou un film, nous pouvons voir les détails de chaque demande (voir exemple ci-dessous).
 
